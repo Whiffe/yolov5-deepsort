@@ -11,7 +11,7 @@
 [https://github.com/Sharpiless/yolov5-deepsort/](https://github.com/Sharpiless/yolov5-deepsort/)
 
 最终效果：
-![在这里插入图片描述](https://github.com/Sharpiless/Yolov5-Deepsort/blob/main/image.png)
+![在这里插入图片描述](https://github.com/Whiffe/yolov5-deepsort/blob/main/image.jpg)
 # YOLOv5检测器：
 
 ```python
@@ -126,13 +126,12 @@ result = det.feedCap(im)
 
 # 联系作者：
 
-> B站：[https://space.bilibili.com/470550823](https://space.bilibili.com/470550823)
+> B站：[https://space.bilibili.com/470550823](https://www.bilibili.com/video/BV1A44y1v7ig/)
 
-> CSDN：[https://blog.csdn.net/weixin_44936889](https://blog.csdn.net/weixin_44936889)
+> CSDN：[https://blog.csdn.net/weixin_44936889](https://blog.csdn.net/WhiffeYF/article/details/121346483)
 
-> AI Studio：[https://aistudio.baidu.com/aistudio/personalcenter/thirdview/67156](https://aistudio.baidu.com/aistudio/personalcenter/thirdview/67156)
 
-> Github：[https://github.com/Sharpiless](https://github.com/Sharpiless)
+> Github：[https://github.com/Whiffe/yolov5-deepsort](https://github.com/Whiffe/yolov5-deepsort)
 
 遵循 GNU General Public License v3.0 协议，标明目标检测部分来源：https://github.com/ultralytics/yolov5/
 
