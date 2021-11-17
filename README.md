@@ -1,7 +1,7 @@
 # 本文禁止转载!
 
 
-本文地址：[https://blog.csdn.net/weixin_44936889/article/details/112002152](https://blog.csdn.net/weixin_44936889/article/details/112002152)
+本文地址：[https://blog.csdn.net/WhiffeYF/article/details/121346483](https://blog.csdn.net/WhiffeYF/article/details/121346483)
 
 # 项目简介：
 使用YOLOv5+Deepsort实现车辆行人追踪和计数，代码封装成一个Detector类，更容易嵌入到自己的项目中。
